@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find goal_publisher)/launch/goal_publisher.launch"/>
+  <!-- My Package launch file -->
+  <node pkg="vm_183438_prj" type="final_project.py" name="final_project" output="screen">
+  </node>
+</launch>
