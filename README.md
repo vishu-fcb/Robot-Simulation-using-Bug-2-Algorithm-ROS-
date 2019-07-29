@@ -3,7 +3,7 @@ This repository contains the code for Robot  Simulation in ROS using bug 2 algor
 
 # The folder strucutre should be as folows :
 
-1: In the src folder of your rospackage, copy the following files: dist.py, final_project.py, location.py. Also keep the optional python compiled files 'dist' and 'location'.
+1: In the src folder of your rospackage, copy the following files: dist.py, final_project.py, location.py. Also keep the optional python compiled files 'dist.pyc' and 'location.pyc'.
 
 2: Put scan.launch file in the launch folder inside your rospackage
 
